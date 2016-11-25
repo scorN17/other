@@ -9,5 +9,6 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"theme": "Material-Theme.sublime-theme",
-	"wrap_width": 120
+	"wrap_width": 190,
+    "auto_match_enabled": false,
 }
