@@ -8,8 +8,10 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"theme": "Material-Theme.sublime-theme",
 	"wrap_width": 190,
+	"show_encoding": true,
+	"show_line_endings": true,
 }
