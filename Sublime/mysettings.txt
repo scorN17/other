@@ -14,4 +14,5 @@
 	"wrap_width": 190,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"word_wrap": true,
 }
