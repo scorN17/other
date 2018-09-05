@@ -1,0 +1,18 @@
+- A File Icon
+- Alignment
+- ColorPicker
+- Compare Side-By-Side
+- Emmet
+- FTPSync
+- jQuery
+- Local History
+- Material Theme
+- Package Control
+- Sass
+- SASS Bulid
+- SASS-Bulid
+- SublimeLinter
+- SublimeLinter-php
+- SublimeOnSaveBuild
+- VAlign
+- zzz A File Icon zzz
