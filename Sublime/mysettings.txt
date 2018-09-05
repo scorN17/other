@@ -10,9 +10,9 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "Material-Theme.sublime-theme",
-	"wrap_width": 190,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"theme": "Material-Theme.sublime-theme",
 	"word_wrap": true,
+	"wrap_width": 90
 }
