@@ -1,5 +1,6 @@
 - A File Icon
 - Alignment
+- Color Highlight
 - ColorPicker
 - Compare Side-By-Side
 - Emmet
@@ -11,6 +12,7 @@
 - Sass
 - SASS Bulid
 - SASS-Bulid
+- Stylus
 - SublimeLinter
 - SublimeLinter-php
 - SublimeOnSaveBuild
